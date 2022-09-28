@@ -14,9 +14,9 @@ Our Team includes.
 
 3. Prathyush Nair.
 
-4.Siddikkhan Imtiyajkhan Pathan.
+4. Siddikkhan Pathan.
 
-5 Sudeep Ramani Haldar.
+5. Sudeep Haldar.
 
 In this project we have made use of React library to create an interactive UI. 
 
@@ -25,4 +25,3 @@ Chakra UI, BootStrap are some additional CSS library used in our project to prov
 Deployment Link:https://magnificent-bublanina-64e24e.netlify.app/
 
 Medium blog link:https://medium.com/@victor20sara20/project-on-clone-of-modesens-a110c4d5394c
-
